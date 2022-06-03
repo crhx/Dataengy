@@ -17,7 +17,7 @@
 
 # =============================================================================
 #
-# Consume messages from Confluent Cloud
+# Compress messages from Confluent Cloud
 # Using Confluent Python Client for Apache Kafka
 #
 # =============================================================================
